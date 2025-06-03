@@ -1,8 +1,3 @@
-Here's a simple and clean `README.md` file for your **Password Encryptor** project:
-
----
-
-````markdown
 # 🔐 Password Encryptor
 
 A simple Python-based tool to encrypt and decrypt messages using a password. The password is used to derive a secure key for encryption — no storage, no database, just fast and secure encryption in memory.
