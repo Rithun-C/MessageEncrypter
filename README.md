@@ -95,7 +95,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Made with ❤️ in Python by \[Your Name]
+Made with ❤️ in Python by Rithun C
 
 ```
 
